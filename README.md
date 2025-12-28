@@ -49,7 +49,6 @@
 ---
 
 ### 🧠 Machine Learning & Image Analysis
-### 📊 Data Analysis & Research
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
