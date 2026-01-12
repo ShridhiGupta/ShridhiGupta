@@ -1,7 +1,6 @@
 # Hello, I'm Shridhi Gupta
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ShridhiGupta&label=Profile%20Views&color=0e75b6&style=flat)
-
 🚀 Bringing ideas to life through **Software Engineering, Algorithms, and AI-driven Systems**  
 🧠 Exploring **Machine Learning, CNN-based Image Analysis & research-oriented development**  
 🌐 Building **full-stack & backend applications**  
