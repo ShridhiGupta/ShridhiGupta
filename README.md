@@ -1,7 +1,5 @@
 # Hello, I'm Shridhi Gupta
 
-![Profile Views](https://komarev.com/ghpvc/?username=ShridhiGupta&label=Profile%20Views&color=0e75b6&style=flat)
-
 🚀 Bringing ideas to life through **Software Engineering, Algorithms, and AI-driven Systems**  
 🧠 Exploring **Machine Learning, CNN-based Image Analysis & research-oriented development**  
 🌐 Building **full-stack & backend applications**  
@@ -87,6 +85,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shridhi-gupta-3826s)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_.shridhi._)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:guptashridhi11@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=ShridhiGupta&label=Profile%20Views&color=0e75b6&style=flat)
 
 📫 Feel free to reach out for **internships, collaborations, research discussions, or hackathons!**
 
