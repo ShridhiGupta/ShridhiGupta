@@ -76,16 +76,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShridhiGupta&show_icons=true&theme=radical&count_private=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShridhiGupta&layout=compact&theme=radical&langs_count=8" height="165"/>
-
-
-
----
-
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shridhi-gupta-3826s)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_.shridhi._)
