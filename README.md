@@ -77,7 +77,13 @@
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShridhiGupta&layout=compact&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShridhiGupta&layout=compact&theme=radical&langs_count=8)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShridhiGupta&show_icons=true&theme=radical&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShridhiGupta&theme=radical)
+
 
 ---
 
