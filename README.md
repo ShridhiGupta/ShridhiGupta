@@ -3,7 +3,7 @@
 🚀 Bringing ideas to life through **Software Engineering, Algorithms, and AI-driven Systems**  
 🧠 Exploring **Machine Learning, CNN-based Image Analysis & research-oriented development**  
 🌐 Building **full-stack & backend applications**  
-🤝 Open to **internships, hackathons, research & collaborative projects**
+🤝 Open to **internships, hackathons, freelancing projects, research & collaborative projects**
 
 ---
 
