@@ -19,7 +19,7 @@
 ---
 
 ## 🚧 Currently Working On
-- **Gibe** – An AI-powered learning platform that helps students understand concepts deeply through intelligent assistance  
+- **SceneForge** – A Failure-Aware Adaptive Orchestration for Multi-Stage AI Video Pipelines
 - **CNN-based Image Analysis** – Training, evaluating, and experimenting with deep learning models  
 - **Research-oriented exploration** in Computer Vision & Deep Learning  
 - **Backend APIs** using Node.js & Express  
