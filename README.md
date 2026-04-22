@@ -14,6 +14,7 @@
 - 🖼️ Working on **CNN-based Image Analysis**
 - 🤖 Interested in **AI agents, automation & workflow orchestration**
 - 🔬 Research-oriented mindset with hands-on experimentation
+- 📄 Authored **4 review papers and 2 research papers** *(with 2 research papers currently under review)*  
 
 ---
 
