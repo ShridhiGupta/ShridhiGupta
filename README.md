@@ -69,6 +69,18 @@
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Yashik-Jain&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Yashik-Jain&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashik-Jain&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Yashik-Jain&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
 ## 🎯 What I’m Looking For
 - 💼 **Software / Full-Stack / Backend / ML Internships / Software Automation**
 - 🤖 AI, ML & automation-based roles
